@@ -23,7 +23,7 @@ namespace Demo1.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Chat()
         {
             return View();
         }
